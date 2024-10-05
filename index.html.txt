@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ishow City Roleplay</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Ishow City Roleplay!</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#join">How to Join</a></li>
+                <li><a href="#rules">Rules</a></li>
+                <li><a href="#events">Events</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Ishow City Roleplay is an immersive community where players can create their own stories in a dynamic city environment.</p>
+    </section>
+
+    <section id="features">
+        <h2>Server Features</h2>
+        <ul>
+            <li>Custom Jobs</li>
+            <li>Realistic Economy</li>
+            <li>Engaging Community</li>
+            <li>Active Admin Team</li>
+        </ul>
+    </section>
+
+    <section id="join">
+        <h2>How to Join</h2>
+        <ol>
+            <li>Install [Game Name]</li>
+            <li>Join our Discord: <a href="[https://discord.gg/6AkvcY83wx]">Join Here</a></li>
+            <li>Connect to the Server: IP: [mtasa://89.42.88.252:22068]</li>
+            <li>Create Your Character: Fill out our character application.</li>
+        </ol>
+    </section>
+
+    <section id="rules">
+        <h2>Server Rules</h2>
+        <ul>
+            <li>Respect fellow players.</li>
+            <li>No hate speech or harassment.</li>
+            <li>Follow server guidelines.</li>
+            <li>Keep OOC to a minimum during gameplay.</li>
+        </ul>
+    </section>
+
+    <section id="events">
+        <h2>Community Events</h2>
+        <ul>
+            <li>Weekly Game Nights - Every Friday</li>
+            <li>Monthly Roleplay Events - City-wide events and contests</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>For questions or support, reach out on Discord or email us at [Insert Email Address].</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Ishow City Roleplay. All rights reserved.</p>
+    </footer>
+</body>
+</html>
